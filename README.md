@@ -34,7 +34,7 @@ Data Processing: PDFMiner (for PDFs), Pandas (for CSVs)
 
 **Installation**
 ```
-git clone https://github.com/yourusername/financial-analyst-dashboard.git
+git clone [https://github.com/yourusername/financial-analyst-dashboard.git](https://github.com/KirtanBhavsar8888/Financial-Analysis-and-also-making-a-Dashboard.git)
 cd financial-analyst-dashboard
 ```
 ```
@@ -47,34 +47,5 @@ cd financial-analyst-dashboard
 ```
 pip install -r requirements.txt
 ```
-**How to Use**
 
-Upload Bank Statement: Upload your bank statement in CSV or PDF format.
-
-View Dashboard: Explore the generated bar and pie charts for a clear financial overview.
-
-Chat with LLaMA: Ask questions about your expenses or request financial advice through the chatbot.
-
-Sample Visualizations
-
-Monthly Spending Bar Chart: 
-
-Daily Expense Pie Chart: 
-
-**Future Improvements**
-
-Integration with online banking APIs for real-time data.
-
-Advanced predictive analysis for future budgeting.
-
-Customizable financial goals and alerts.
-
-
-**Acknowledgements**
-
-LLaMA Model for conversational AI.
-
-Plotly and Streamlit for interactive visualizations.
-
-Open-source libraries for data processing and analysis.
 
