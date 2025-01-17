@@ -38,14 +38,7 @@ git clone [https://github.com/yourusername/financial-analyst-dashboard.git](http
 cd financial-analyst-dashboard
 ```
 ```
-git clone https://github.com/yourusername/financial-analyst-dashboard.git
-cd financial-analyst-dashboard
-```
-```
-git clone https://github.com/yourusername/financial-analyst-dashboard.git
-cd financial-analyst-dashboard
-```
 pip install -r requirements.txt
-```
+
 
 
